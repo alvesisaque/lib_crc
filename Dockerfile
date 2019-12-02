@@ -1,13 +1,13 @@
 FROM python:3
 
-#ADD . /lib_crc
+ADD . /code
 
-#RUN cd /lib_crc
+WORKDIR /code
 
-COPY requirements.txt /opt/app/requirements.txt
-WORKDIR /opt/app
+#COPY requirements.txt /opt/app/requirements.txt
+#WORKDIR /opt/app
 RUN pip install -r requirements.txt
 
-COPY . /opt/app
+#COPY . /opt/app
 
-CMD [ "python", "./main.py" ]
+CMD python main.py
