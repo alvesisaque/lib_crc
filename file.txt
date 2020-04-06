@@ -1,0 +1,3 @@
+<Contr Mod="901" VlrContr="148808,38" TaxEft="8,5153122" Indx="0201" TxCET="10,21" PrzOp="237" RegmAmtzc="2" DtContr="2016-08-29" OrigemRec="0208" TpOp="3" GrauGar="0">
+		<Imov Munic="4317509"  Uf="RS" Cep="98802715" TpImovel="1" DtAvalia="2019-06-18" VlrAvalia="890000,00" DtCompra="2016-08-29" VlrCompra="890000,00" NrLaudo="1054"/>
+	</Contr>

@@ -1,4 +1,14 @@
 version: "2.0"
 services:
-  lib_srs:
+  lib_crc:
     build: .
+    container_name: lib_crc
+    depends_on:
+      - db
+  db:
+    image: mysql
+    container_name: mysql-container
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      MYSQL_ROOT_PASSWORD: senha123
+    

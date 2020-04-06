@@ -1,0 +1,47 @@
+## Reunião INDICE
+
+- ENCAMINHAR EMAIL COPIANDO TODOS OS PARTICIPANTES PARA CENTRALIZAR A COMUNICAÇÃO. (minha atividade)
+
+Será necessário passar pelo AW 
+
+cria o usuário no AW.
+
+Calculadora
+
+Fluxo
+
+recebe os dados de cadastro do cliente (exceto a senha)
+usa pra realizar o calculo do financiamento caso deseja realizar novamente a simulação.
+
+MV5 critografia de senha.
+
+
+## Necessidades Inserir no CRONOGRAMA
+
+- Será necessário fornecer para a Indice o template de email (CECON) alteração dos CSS do email;
+- A princípio haverá a integração direta com a PROGNUM.
+- Recebe os dados da calculadora, dentro da plataforma da INDICE faz a simulação PROGNUM (homologado) - Criar roteiro de testes.
+- Dados do barramento: é necessário melhorar essa comunicação (definir quais campos eles desejam receber, o nome e etc.)
+- Inserir a hierarquia da poupex na plataforma da INDICE. (Inserir todos para iniciar os testes) - o cliente poderá escolher quais pontos deseja trabalhar
+- Será enviado a sigla do PA. (if paraná e SP, indice, caso não seja envia por email)
+- Existem particularidades dos processos em relação à localidades (verificar quais são as regras. exigências legais)
+- 
+
+## CRONOGRAMA
+iran.marley@gservicer.com.br
+- Enviar o email com as informa
+- As  informações da lead chrys enviará um email com o padrão das informações.
+
+
+GERAÇÃO DA SENHA
+-  no retorno da API enviará o id do cliente (CPF). Ação de cadastro (criação e atualização)
+    - envio de CPF e senha.
+ENCAMINHAR TODA A DOCUMENTAÇÃO DA PRIMEIRA E SEGUNDA FASE
+- Quais os parâmetros 
+
+
+Qual a ferramenta iremos utilizar? para controlar essas atividades?????
+
+
+Reunião hoje às 14:00. T10. Solicitação com video conferência. (Relação dos documentos 1 e 2 fase de todas as modalidades).
+
